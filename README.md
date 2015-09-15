@@ -1,6 +1,6 @@
 OpenBrain Plasmoid Source
 -----------------
-
+[![Build Status](https://travis-ci.org/Tiger66639/openbrain.svg)](https://travis-ci.org/Tiger66639/openbrain)
 You need Qt4.svn
 You also need KDE4.2.x.svn
 
